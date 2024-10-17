@@ -1,4 +1,4 @@
-# <p align="center">👋 Hi, I’m Sharisse Ji! 👋</p>
+# <p align="center">👋 Hi, I’m Sharisse! 👋</p>
 
 ### <p align="center"> 🖥️ Computer Engineering Student at the University of Waterloo 🖥️</p>
 
