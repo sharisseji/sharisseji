@@ -6,11 +6,6 @@
 
 <br/>
 
-## <p align="center"> 👩‍💻 Languages 👩‍💻</p>
-
-### <p align="center">Python, C/C++, Java, JavaScript, HTML/CSS, Processing </p>
-<br/>
-
 ## <p align="center"> 📭 Connect with Me 📭 </p>
 ### <div align="center"><a href="http://www.linkedin.com/in/sharisseji" style="color: #ff6347; font-size: 40px;">LinkedIn</a></div>
 
