@@ -2,7 +2,7 @@
 
 #### <p align="center"> 🖥️ Computer Engineering Student at the University of Waterloo 🖥️</p>
 
-#### <p align="center">Find my projects right here!</p>
+#### <p align="center">Find all my projects here!</p>
 
 <br/>
 
