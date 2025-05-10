@@ -3,7 +3,6 @@
 I'm **Sharisse**, a **Computer Engineering Student** at the **University of Waterloo**.
 
 Find all my projects here!
-
 <br/>
 
 ## 📭 Connect with Me 
