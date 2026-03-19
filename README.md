@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sharisse!
 
-**Computer Engineering Student** at the **University of Waterloo**.
+**Computer Engineering Student** at the **University of Waterloo** 
 
 Check out my projects here!
 <br/>
